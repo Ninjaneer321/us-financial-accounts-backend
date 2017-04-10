@@ -1,0 +1,140 @@
+FA156902505.A	Households and nonprofit organizations; gross value added (IMA)	Line 1	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA156300003.A	Households and nonprofit organizations; consumption of fixed capital, structures, equipment, and intellectual property products, current cost basis (NIPA basis)	Line 2	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA156902605.A	Households and nonprofit organizations; net value added (IMA)	Line 3	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA156025005.A	Households and nonprofit organizations; compensation of employees paid (IMA)	Line 4	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA156020001.A	Households and nonprofit organizations; wages and salaries paid (IMA)	Line 5	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA156401001.A	Households and nonprofit organizations; employers' social contributions paid (IMA)	Line 6	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA156240101.A	Households and nonprofit organizations; taxes on production and imports less subsidies, payable (IMA)	Line 7	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA156402101.A	Households and nonprofit organizations; operating surplus, net (IMA)	Line 8	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA156140005.A	Households and nonprofit organizations; net national income/balance of primary incomes, net (IMA)	Line 9	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA156402101.A	Households and nonprofit organizations; operating surplus, net (IMA)	Line 10	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA156025105.A	Households and nonprofit organizations; compensation of employees received	Line 11	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA156020101.A	Households and nonprofit organizations; wages and salaries received (IMA)	Line 12	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA156401101.A	Households and nonprofit organizations; supplements to wages and salaries	Line 13	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA156150105.A	Households and nonprofit organizations; property income (received) (IMA)	Line 14	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA156130101.A	Households and nonprofit organizations; interest received (IMA)	Line 15	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA156120105.A	Households and nonprofit organizations; distributed income of corporations, received (IMA)	Line 16	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA156121101.A	Households and nonprofit organizations; dividends received (IMA)	Line 17	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA156122101.A	Households and nonprofit organizations; withdrawals from income of quasi-corporations, received (IMA)	Line 18	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA156130001.A	Households and nonprofit organizations; interest paid (IMA)	Line 19	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA156140005.A	Households and nonprofit organizations; net national income/balance of primary incomes, net (IMA)	Line 20	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA156220001.A	Households and nonprofit organizations; current taxes on income, wealth, etc. paid (IMA)	Line 21	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA156404105.A	Households and nonprofit organizations; social benefits received	Line 22	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA156600001.A	Households and nonprofit organizations; contributions for government social insurance paid excluding U.S. affiliated areas	Line 23	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA156403101.A	Households and nonprofit organizations; other current transfers received (IMA)	Line 24	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA156403001.A	Households and nonprofit organizations; other current transfers paid (IMA)	Line 25	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA156012095.A	Households and nonprofit organizations; disposable income, net (IMA)	Line 26	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA156901001.A	Households and nonprofit organizations; personal consumption expenditures	Line 27	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA156006005.A	Households and nonprofit organizations; net saving including net capital transfers paid excluding consumer durables and government insurance and pension fund reserves	Line 28	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA156006315.A	Households and nonprofit organizations; net saving less net capital transfers paid excluding consumer durables and government insurance and pension fund reserves	Line 29	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA156006005.A	Households and nonprofit organizations; net saving including net capital transfers paid excluding consumer durables and government insurance and pension fund reserves	Line 30	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA155440005.A	Households and nonprofit organizations; net capital transfers paid	Line 31	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA155050905.A	Households and nonprofit organizations; capital formation, net (IMA)	Line 32	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA155019005.A	Households and nonprofit organizations; gross fixed investment excluding consumer durables	Line 33	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA155012005.A	Households and nonprofit organizations; gross fixed investment, residential equipment and structures (includes farm houses)	Line 34	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA165013005.A	Nonprofit organizations; gross fixed investment, nonresidential structures, equipment, and intellectual property products	Line 35	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA156300003.A	Households and nonprofit organizations; consumption of fixed capital, structures, equipment, and intellectual property products, current cost basis (NIPA basis)	Line 36	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA155420003.A	Households and nonprofit organizations; acquisition of nonproduced nonfinancial assets (net)	Line 37	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA155000905.A	Households and nonprofit organizations; net lending (+) or borrowing (-) (capital account)	Line 38	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA155000905.A	Households and nonprofit organizations; net lending (+) or borrowing (-) (capital account)	Line 39	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA154090005.A	Households and nonprofit organizations; total financial assets	Line 40	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA154000005.A	Households and nonprofit organizations; total currency and deposits; asset	Line 41	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA153020005.A	Households and nonprofit organizations; checkable deposits and currency; asset	Line 42	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA153030005.A	Households and nonprofit organizations; total time and savings deposits; asset	Line 43	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA153091003.A	Households and nonprofit organizations; private foreign deposits; asset	Line 44	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA313131003.A	Federal government; postal savings system deposits; liability	Line 45	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA154022005.A	Households and nonprofit organizations; debt securities; asset	Line 46	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA153061105.A	Households and nonprofit organizations; Treasury securities; asset	Line 47	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA153061705.A	Households and nonprofit organizations; agency- and GSE-backed securities; asset	Line 48	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA153062005.A	Households and nonprofit organizations; municipal securities; asset	Line 49	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA153063005.A	Households and nonprofit organizations; corporate and foreign bonds; asset	Line 50	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA154023005.A	Households and nonprofit organizations; loans; asset	Line 51	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA154041005.A	Households and nonprofit organizations; loans, excluding mortgages; asset	Line 52	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA153065005.A	Households and nonprofit organizations; total mortgages; asset	Line 53	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA153081005.A	Households and nonprofit organizations; equity and investment fund shares; asset (IMA)	Line 54	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA153064105.A	Households and nonprofit organizations; corporate equities; asset	Line 55	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA153064205.A	Households and nonprofit organizations; mutual fund shares; asset	Line 56	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA153034005.A	Households and nonprofit organizations; money market mutual fund shares; asset	Line 57	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA152090205.A	Households and nonprofit organizations; proprietors' equity in noncorporate business	Line 58	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA153094305.A	Households and nonprofit organizations; equity investment in funding corporations under PPIP; asset	Line 59	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA153052005.A	Households and nonprofit organizations; insurance, pension and standardized guarantee schemes; asset (IMA)	Line 60	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA153076005.A	Households and nonprofit organizations; insurance receivables due from property-casualty insurance companies; asset	Line 61	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA153040005.A	Households and nonprofit organizations; life insurance reserves; asset	Line 62	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA153050005.A	Households and nonprofit organizations; pension entitlements; asset	Line 63	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA543195005.A	Life insurance companies; insurance reserves, excluding life insurance reserves and pension entitlements; liability	Line 64	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA313195105.A	Federal government; retiree health care funds; liability	Line 65	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA163070005.A	Nonprofit organizations; grants and trade receivables; asset	Line 66	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA154190005.A	Households and nonprofit organizations; total liabilities	Line 67	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA163162003.A	Nonprofit organizations; municipal securities; liability	Line 68	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA154123005.A	Households and nonprofit organizations; loans; liability	Line 69	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA154141005.A	Households and nonprofit organizations; short-term loans; liability	Line 70	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA153166000.A	Households and nonprofit organizations; consumer credit; liability	Line 71	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA153168005.A	Households and nonprofit organizations; depository institution loans n.e.c.; liability	Line 72	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA153169005.A	Households and nonprofit organizations; other loans and advances; liability	Line 73	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA153165005.A	Households and nonprofit organizations; total mortgages; liability	Line 74	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA543077073.A	Life insurance companies, general accounts; deferred and unpaid life insurance premiums; asset	Line 75	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA163170005.A	Nonprofit organizations; trade payables; liability	Line 76	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FA155000005.A	Households and nonprofit organizations; net lending (+) or borrowing (-) (financial account)	Line 77	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FV158090185.A	Households and nonprofit organizations; total other volume changes (IMA)	Line 78	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FU155111005.A	Households and nonprofit organizations; consumer durable goods, current cost basis	Line 79	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FV152010005.A	Households and nonprofit organizations; nonfinancial assets	Line 80	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FV158090085.A	Households and nonprofit organizations; other volume changes (IMA)	Line 81	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FU157005045.A	Households and nonprofit organizations; statistical discrepancy (IMA)	Line 82	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FR152010085.A	Households and nonprofit organizations; nonfinancial assets, revaluation (IMA)	Line 83	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FR155035005.A	Households and nonprofit organizations; real estate at market value	Line 84	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FR155111005.A	Households and nonprofit organizations; consumer durable goods, current cost basis	Line 85	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FR165015205.A	Nonprofit organizations; equipment, current cost basis	Line 86	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FR165013765.A	Nonprofit organizations; nonresidential intellectual property products, current cost basis	Line 87	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FR158080095.A	Households and nonprofit organizations; total financial assets revaluation account (IMA)	Line 88	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FR153064105.A	Households and nonprofit organizations; corporate equities; asset	Line 89	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FR153064205.A	Households and nonprofit organizations; mutual fund shares; asset	Line 90	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FR152090205.A	Households and nonprofit organizations; proprietors' equity in noncorporate business	Line 91	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FR153094305.A	Households and nonprofit organizations; equity investment in funding corporations under PPIP; asset	Line 92	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FR153052045.A	Households and nonprofit organizations; net equity in life insurance and pension funds; asset (IMA)	Line 93	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FR158200095.A	Households and nonprofit organizations; changes in net worth due to nominal holding gains/losses excluding disaster-related losses on residential structures (IMA)	Line 94	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FC152090005.A	Households and nonprofit organizations; net worth	Line 95	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FL152000005.A	Households and nonprofit organizations; total assets	Line 96	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FL152010005.A	Households and nonprofit organizations; nonfinancial assets	Line 97	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+LM155035005.A	Households and nonprofit organizations; real estate at market value	Line 98	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FL155111005.A	Households and nonprofit organizations; consumer durable goods, current cost basis	Line 99	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FL165015205.A	Nonprofit organizations; equipment, current cost basis	Line 100	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FL165013765.A	Nonprofit organizations; nonresidential intellectual property products, current cost basis	Line 101	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FL154090005.A	Households and nonprofit organizations; total financial assets	Line 102	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FL154000005.A	Households and nonprofit organizations; total currency and deposits; asset	Line 103	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FL153020005.A	Households and nonprofit organizations; checkable deposits and currency; asset	Line 104	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FL153091003.A	Households and nonprofit organizations; private foreign deposits; asset	Line 105	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FL153030005.A	Households and nonprofit organizations; total time and savings deposits; asset	Line 106	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FL313131003.A	Federal government; postal savings system deposits; liability	Line 107	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FL154022005.A	Households and nonprofit organizations; debt securities; asset	Line 108	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FL153061105.A	Households and nonprofit organizations; Treasury securities; asset	Line 109	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FL153061705.A	Households and nonprofit organizations; agency- and GSE-backed securities; asset	Line 110	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FL153062005.A	Households and nonprofit organizations; municipal securities; asset	Line 111	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FL153063005.A	Households and nonprofit organizations; corporate and foreign bonds; asset	Line 112	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FL154023005.A	Households and nonprofit organizations; loans; asset	Line 113	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FL154041005.A	Households and nonprofit organizations; loans, excluding mortgages; asset	Line 114	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FL153065005.A	Households and nonprofit organizations; total mortgages; asset	Line 115	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FL153081005.A	Households and nonprofit organizations; equity and investment fund shares; asset (IMA)	Line 116	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+LM153064105.A	Households and nonprofit organizations; corporate equities; asset	Line 117	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+LM153064205.A	Households and nonprofit organizations; mutual fund shares; asset	Line 118	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FL153034005.A	Households and nonprofit organizations; money market mutual fund shares; asset	Line 119	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FL152090205.A	Households and nonprofit organizations; proprietors' equity in noncorporate business	Line 120	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FL153094305.A	Households and nonprofit organizations; equity investment in funding corporations under PPIP; asset	Line 121	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FL153052005.A	Households and nonprofit organizations; insurance, pension and standardized guarantee schemes; asset (IMA)	Line 122	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FL153076005.A	Households and nonprofit organizations; insurance receivables due from property-casualty insurance companies; asset	Line 123	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FL153040005.A	Households and nonprofit organizations; life insurance reserves; asset	Line 124	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FL153050005.A	Households and nonprofit organizations; pension entitlements; asset	Line 125	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FL543195005.A	Life insurance companies; insurance reserves, excluding life insurance reserves and pension entitlements; liability	Line 126	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FL313195105.A	Federal government; retiree health care funds; liability	Line 127	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FL163070005.A	Nonprofit organizations; grants and trade receivables; asset	Line 128	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FL152100005.A	Households and nonprofit organizations; total liabilities and net worth (IMA)	Line 129	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FL154190005.A	Households and nonprofit organizations; total liabilities	Line 130	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FL163162003.A	Nonprofit organizations; municipal securities; liability	Line 131	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FL154123005.A	Households and nonprofit organizations; loans; liability	Line 132	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FL154141005.A	Households and nonprofit organizations; short-term loans; liability	Line 133	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FL153166000.A	Households and nonprofit organizations; consumer credit; liability	Line 134	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FL153168005.A	Households and nonprofit organizations; depository institution loans n.e.c.; liability	Line 135	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FL153169005.A	Households and nonprofit organizations; other loans and advances; liability	Line 136	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FL153165005.A	Households and nonprofit organizations; total mortgages; liability	Line 137	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FL543077073.A	Life insurance companies, general accounts; deferred and unpaid life insurance premiums; asset	Line 138	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FL163170005.A	Nonprofit organizations; trade payables; liability	Line 139	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
+FL152090005.A	Households and nonprofit organizations; net worth	Line 140	Table S.3.a Households and Nonprofit Institutions Serving Households	Millions of dollars
