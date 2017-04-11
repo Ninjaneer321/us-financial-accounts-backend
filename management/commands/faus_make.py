@@ -46,9 +46,10 @@ class Command(BaseCommand):
                 if symbol_code not in table_data_row:
                     raise Exception('?1')
                 entry_raw = table_data_row[symbol_code]
-                if entry_raw.isnumeric():
-                    entry = Entry.objects.create(data=float(entry_raw), date=date, symbol=symbol)
-                else:
+                try:
+                    entry_data = float(entry_raw)
+                    entry = Entry.objects.create(data=entry_data, date=date, symbol=symbol)
+                except ValueError as err:
                     entry = Entry.objects.create(date=date, symbol=symbol)
                 entry.save()
         table_data_file.close()
@@ -60,5 +61,5 @@ class Command(BaseCommand):
         for dt in listdir(data_dict_path):
             matched = re.match(r'([a-zA-Z0-9]+)\.txt$', dt)
             if matched:
+                self.stdout.write('processing {0}'.format(dt), ending='\n')
                 self.process_table(path.join(data_dict_path, dt), matched.group(1))
-
