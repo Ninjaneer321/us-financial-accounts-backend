@@ -4,6 +4,7 @@ import re
 
 from financial_accounts_us.models import DataTable, Symbol, Entry, Date
 from django.core.management.base import BaseCommand
+from django.db import transaction
 
 RD = path.join(path.dirname(__file__), '../../z1_csv_files')
 
@@ -11,6 +12,7 @@ RD = path.join(path.dirname(__file__), '../../z1_csv_files')
 class Command(BaseCommand):
     help = 'populate data into financial account us from ' + RD
 
+    @transaction.atomic
     def process_table(self, fn, table_code):
         # create a DataTable, from a file in data_dictionary.
         data_table = DataTable.objects.create(table_code=table_code)
@@ -54,11 +56,13 @@ class Command(BaseCommand):
         table_data_file.close()
 
     def handle(self, *args, **options):
+        self.stdout.write('removing old data')
         DataTable.objects.all().delete()
 
         data_dict_path = path.join(RD, 'data_dictionary')
         for dt in listdir(data_dict_path):
             matched = re.match(r'([a-zA-Z0-9]+)\.txt$', dt)
             if matched:
+                self.stdout.write('importing '+ dt)
                 self.process_table(path.join(data_dict_path, dt), matched.group(1))
 
