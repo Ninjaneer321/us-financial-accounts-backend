@@ -7,6 +7,7 @@ import thunkMiddleware from 'redux-thunk'
 import createLogger from 'redux-logger'
 
 import financialAccountUsReducer from './reducer'
+import App from './containers/App.jsx'
 
 let logger = createLogger()
 
@@ -15,7 +16,8 @@ let store = createStore(financialAccountUsReducer,
 
 let app = (
     <Provider store={store}>
-
+        <App>
+        </App>
     </Provider>
     )
 
