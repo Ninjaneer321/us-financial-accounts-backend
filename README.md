@@ -18,13 +18,5 @@ python3 manage.py faus_make       # my customized command to populate data. This
 ```
 Now, it is ready to do development. See official django for more(like creating a new model, html page view, and static content) 
 
-# Frontend Dev Setup
-We use Redux + React as our framework, and webpack for bundling source code. For more, see [Redux](http://redux.js.org/) and [React](https://facebook.github.io/react/)
-
-Frontend is in `node/` directory. to compile, run
-```
-cd node/
-webpack
-```
-then, the resulting javascript file will be in `node/dist` directory. 
-
+# Frontend Dev
+See [here](https://github.com/cjackie/financial_accounts_us_frontend)

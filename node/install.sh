@@ -1,1 +1,0 @@
-webpack && cp ./dist/financialAccountsUS.js ../static/financial_accounts_us/
