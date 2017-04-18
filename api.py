@@ -3,9 +3,19 @@ from django.http import JsonResponse
 from django.core.exceptions import ObjectDoesNotExist
 import logging
 
+from django.conf import settings
+
 logger = logging.getLogger(__name__)
 
+def maybe_dev(func):
+    def wrapper(*args, **kwargs):
+        response = func(*args, **kwargs)
+        if settings.DEBUG:
+            response['Access-Control-Allow-Origin'] = '*'
+        return response
+    return wrapper
 
+@maybe_dev 
 def get_tables_brief(request):
     '''
     get all tables
@@ -32,6 +42,7 @@ def get_tables_brief(request):
     return JsonResponse({'tables': tables}, status=200)
 
 '''FIXME'''
+@maybe_dev
 def get_table(request, id_):
     '''
     get symbols, and dates of a table. table id, request.GET['id'], is needed
@@ -85,7 +96,7 @@ def get_table(request, id_):
     return JsonResponse({'data_table_id': int(table.id),
                          'symbols': symbols, 'dates': dates}, status=200)
 
-
+@maybe_dev
 def entries_by_symbol(request, id_):
     '''
 
@@ -119,7 +130,7 @@ def entries_by_symbol(request, id_):
         })
     return JsonResponse({'symbol_id': id_, 'entries': entries}, status=200)
 
-
+@maybe_dev
 def entries_by_date(request, id_):
     '''
     get entries by date. GET
